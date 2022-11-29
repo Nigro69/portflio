@@ -31,12 +31,12 @@ export default function Header({}: Props) {
                 bgColor='transparent'
             />
             <SocialIcon
-                url='https://instagram.com/'
+                url='https://www.instagram.com/yashbarman_/'
                 fgColor='gray'
                 bgColor='transparent'
             />
             <SocialIcon
-                url='https://linkedin.com/'
+                url='https://www.linkedin.com/in/yash-barman-20185921a/'
                 fgColor='gray'
                 bgColor='transparent'
             />
