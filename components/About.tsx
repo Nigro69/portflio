@@ -75,7 +75,7 @@ export default function About({}: Props) {
                 <span className='underline decoration-[#F7AB0A]/50' >little about me</span>{" "}
             </h4>
             <p className='text-sm xl:text-lg'>
-                I'm Yash. I am SDE intern at Kreeti Technologies PVT. LTD. And I am a Fullstack Developer who specializes in in frontend development using NextJs (ReactJs) with experience in frontend as well as backend development. Apart from development, I am a competitive programmer and I have a comprehensive understanding of C++ and Javascript and I am skilled in DSA and Core subjects like DBMS, OS and CN.
+                I&apos;m Yash. I am SDE intern at Kreeti Technologies PVT. LTD. And I am a Fullstack Developer who specializes in in frontend development using NextJs (ReactJs) with experience in frontend as well as backend development. Apart from development, I am a competitive programmer and I have a comprehensive understanding of C++ and Javascript and I am skilled in DSA and Core subjects like DBMS, OS and CN.
             </p>
         </div>
     </motion.div>
